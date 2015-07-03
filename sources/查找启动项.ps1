@@ -1,0 +1,1 @@
+﻿$normalRun = Get-Item Registry::HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
